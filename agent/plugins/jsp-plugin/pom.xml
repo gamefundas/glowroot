@@ -7,7 +7,7 @@
   <parent>
     <groupId>org.glowroot</groupId>
     <artifactId>glowroot-parent</artifactId>
-    <version>0.13.5</version>
+    <version>0.13.7-SNAPSHOT</version>
     <relativePath>../../..</relativePath>
   </parent>
 
@@ -57,7 +57,7 @@
       <!-- required for tomcat jsp compilation -->
       <groupId>org.apache.ant</groupId>
       <artifactId>ant</artifactId>
-      <version>1.10.5</version>
+      <version>1.10.7</version>
       <scope>test</scope>
     </dependency>
   </dependencies>

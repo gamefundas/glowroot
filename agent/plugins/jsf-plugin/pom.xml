@@ -7,7 +7,7 @@
   <parent>
     <groupId>org.glowroot</groupId>
     <artifactId>glowroot-parent</artifactId>
-    <version>0.13.5</version>
+    <version>0.13.7-SNAPSHOT</version>
     <relativePath>../../..</relativePath>
   </parent>
 
@@ -19,7 +19,7 @@
   <properties>
     <!-- instrumented libraries -->
     <!-- JSF 2.3+ requires Java 8+ -->
-    <faces.version>2.2.18</faces.version>
+    <faces.version>2.2.20</faces.version>
   </properties>
 
   <dependencies>
